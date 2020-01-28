@@ -4,4 +4,5 @@ class Monografia{
   double nota;
 
   Monografia(this.nomedoaluno,this.titulo,this.nota);
+  
 }
